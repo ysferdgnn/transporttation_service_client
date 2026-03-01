@@ -19,7 +19,7 @@ import {
 import DeleteIcon from '@mui/icons-material/Delete'
 import { apiClient } from '../../api/client'
 
-const TRANSPORTATION_TYPES = ['FLIGHT', 'BUS', 'SUBWAY', 'OTHER']
+const TRANSPORTATION_TYPES = ['FLIGHT', 'BUS', 'SUBWAY', 'UBER']
 
 function TransportationsTab({
   locations,
